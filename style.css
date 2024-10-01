@@ -5,7 +5,7 @@
 }
 
 *{
-  margin:0; 
+  margin:0;
   padding:0;
 }
 
@@ -17,13 +17,13 @@ body{
 display:flex;
 margin:10%;
  allign-items: center;
-  
+
 }
 strong{
   color:var(--cor-destaque);
 }
 a{
- 
+
 
 }
 .foto{
